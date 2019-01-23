@@ -1,0 +1,14 @@
+App({
+
+  onLaunch() {
+    
+  },
+
+  onShow() {
+   
+  },
+
+  onError() {
+   
+  }
+})
