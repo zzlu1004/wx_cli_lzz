@@ -1,5 +1,5 @@
 {
-  "name": "wx_cli",
+  "name": "wx_cli_base",
   "version": "1.0.0",
   "description": "wx_cli_demo",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lzz1004/wx_cli.git"
+    "url": "git+https://github.com/lzz1004/wx_cli_base.git"
   },
   "keywords": [
     "wx_cli"
@@ -16,7 +16,7 @@
   "author": "luzhuangzhuang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lzz1004/wx_cli/issues"
+    "url": "https://github.com/lzz1004/wx_cli_base/issues"
   },
-  "homepage": "https://github.com/lzz1004/wx_cli#readme"
+  "homepage": "https://github.com/lzz1004/wx_cli_base#readme"
 }
