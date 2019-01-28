@@ -1,12 +1,12 @@
 # wx_cli_lzz
-该项目为个人整理的一个基础版的小程序架构，该项目主要学习通过npm创建项目，
+该项目是整理的一个基础版的交互脚手架，该项目主要用来分享npm创建自己自己脚手架，以项目以小程序为例。
 
 ## Project setup
 ```
 npm i wx-cli-lzz -g
 ```
 
-## Compiles and hot-reloads for development
+## Project Create
 ```
 wx-cli-lzz init [项目名称]
 ```
